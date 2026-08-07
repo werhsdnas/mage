@@ -180,6 +180,8 @@ public final class MarvelSuperHeroes extends ExpansionSet {
         cards.add(new SetCardInfo("Hellcat, Undying Vigilante", 170, Rarity.UNCOMMON, mage.cards.h.HellcatUndyingVigilante.class));
         cards.add(new SetCardInfo("Hercules, Prince of Power", 171, Rarity.UNCOMMON, mage.cards.h.HerculesPrinceOfPower.class));
         cards.add(new SetCardInfo("Hero in Training", 16, Rarity.COMMON, mage.cards.h.HeroInTraining.class));
+        cards.add(new SetCardInfo("Heroic Feast", 172, Rarity.RARE, mage.cards.h.HeroicFeast.class, NON_FULL_USE_VARIOUS));
+        cards.add(new SetCardInfo("Heroic Feast", 414, Rarity.RARE, mage.cards.h.HeroicFeast.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Hex Magic", 133, Rarity.UNCOMMON, mage.cards.h.HexMagic.class));
         cards.add(new SetCardInfo("Hidden Lair", 269, Rarity.RARE, mage.cards.h.HiddenLair.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Hidden Lair", 383, Rarity.RARE, mage.cards.h.HiddenLair.class, NON_FULL_USE_VARIOUS));
@@ -195,6 +197,8 @@ public final class MarvelSuperHeroes extends ExpansionSet {
         cards.add(new SetCardInfo("Invisible Woman, Sue Storm", 323, Rarity.UNCOMMON, mage.cards.i.InvisibleWomanSueStorm.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Iron Fist, Living Weapon", 138, Rarity.UNCOMMON, mage.cards.i.IronFistLivingWeapon.class));
         cards.add(new SetCardInfo("Iron Lad, Diverging Destiny", 59, Rarity.UNCOMMON, mage.cards.i.IronLadDivergingDestiny.class));
+        cards.add(new SetCardInfo("Iron Man Armor", 248, Rarity.MYTHIC, mage.cards.i.IronManArmor.class, NON_FULL_USE_VARIOUS));
+        cards.add(new SetCardInfo("Iron Man Armor", 427, Rarity.MYTHIC, mage.cards.i.IronManArmor.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Iron Man, Master of Machines", 216, Rarity.UNCOMMON, mage.cards.i.IronManMasterOfMachines.class));
         cards.add(new SetCardInfo("Ironheart, Clever Champion", 360, Rarity.RARE, mage.cards.i.IronheartCleverChampion.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Ironheart, Clever Champion", 60, Rarity.RARE, mage.cards.i.IronheartCleverChampion.class, NON_FULL_USE_VARIOUS));
@@ -268,6 +272,7 @@ public final class MarvelSuperHeroes extends ExpansionSet {
         cards.add(new SetCardInfo("Nick Fury, Agent of S.H.I.E.L.D.", 314, Rarity.RARE, mage.cards.n.NickFuryAgentOfSHIELD.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Nick Fury, Agent of S.H.I.E.L.D.", 357, Rarity.RARE, mage.cards.n.NickFuryAgentOfSHIELD.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Nick Fury, Agent of S.H.I.E.L.D.", 389, Rarity.RARE, mage.cards.n.NickFuryAgentOfSHIELD.class, NON_FULL_USE_VARIOUS));
+        cards.add(new SetCardInfo("Night Nurse, Healer of Heroes", 26, Rarity.UNCOMMON, mage.cards.n.NightNurseHealerOfHeroes.class));
         cards.add(new SetCardInfo("Ninja of the Hand", 108, Rarity.COMMON, mage.cards.n.NinjaOfTheHand.class));
         cards.add(new SetCardInfo("Okoye, Dora Milaje Leader", 27, Rarity.UNCOMMON, mage.cards.o.OkoyeDoraMilajeLeader.class));
         cards.add(new SetCardInfo("Origin of the Avengers", 28, Rarity.RARE, mage.cards.o.OriginOfTheAvengers.class, NON_FULL_USE_VARIOUS));
